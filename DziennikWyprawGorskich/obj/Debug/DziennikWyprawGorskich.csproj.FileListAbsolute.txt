@@ -1,0 +1,9 @@
+c:\users\voltpc3\documents\visual studio 2015\Projects\DziennikWyprawGorskich\DziennikWyprawGorskich\bin\Debug\DziennikWyprawGorskich.exe.config
+c:\users\voltpc3\documents\visual studio 2015\Projects\DziennikWyprawGorskich\DziennikWyprawGorskich\bin\Debug\DziennikWyprawGorskich.exe
+c:\users\voltpc3\documents\visual studio 2015\Projects\DziennikWyprawGorskich\DziennikWyprawGorskich\bin\Debug\DziennikWyprawGorskich.pdb
+c:\users\voltpc3\documents\visual studio 2015\Projects\DziennikWyprawGorskich\DziennikWyprawGorskich\obj\Debug\DziennikWyprawGorskich.Properties.Resources.resources
+c:\users\voltpc3\documents\visual studio 2015\Projects\DziennikWyprawGorskich\DziennikWyprawGorskich\obj\Debug\DziennikWyprawGorskich.csproj.GenerateResource.Cache
+c:\users\voltpc3\documents\visual studio 2015\Projects\DziennikWyprawGorskich\DziennikWyprawGorskich\obj\Debug\DziennikWyprawGorskich.exe
+c:\users\voltpc3\documents\visual studio 2015\Projects\DziennikWyprawGorskich\DziennikWyprawGorskich\obj\Debug\DziennikWyprawGorskich.pdb
+c:\users\voltpc3\documents\visual studio 2015\Projects\DziennikWyprawGorskich\DziennikWyprawGorskich\obj\Debug\DziennikWyprawGorskich.Form1.resources
+C:\Users\VOLTPC3\Documents\Visual Studio 2015\Projects\DziennikWyprawGorskich\DziennikWyprawGorskich\obj\Debug\DziennikWyprawGorskich.csprojResolveAssemblyReference.cache
